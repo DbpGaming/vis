@@ -3,7 +3,7 @@
 
 local lexers = vis.lexers
 
-lexers.STYLE_DEFAULT = 'fore:#d7d7d7,back:#3a3a3a'
+lexers.STYLE_DEFAULT = 'fore:#d7d7d7'
 lexers.STYLE_NOTHING = ''
 lexers.STYLE_CLASS = ''
 lexers.STYLE_COMMENT = 'fore:#87af87'
